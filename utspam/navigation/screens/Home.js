@@ -149,6 +149,7 @@ export default function HomeScreen({ navigation }) {
                     <Text style={styles.textTombol}>Buat Tiket</Text>
                 </TouchableOpacity>
                 
+            <Text>Copyright Ihtiandiko Wicaksono - 119140118</Text>
             </View>
         </View>
     );
