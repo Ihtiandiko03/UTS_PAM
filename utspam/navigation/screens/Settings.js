@@ -5,6 +5,7 @@ export default function SettingsScreen({ navigation }) {
     return (
         <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
             <StatusBar barStyle="light-content" backgroundColor="#1976d2"/>
+            <Text>Copyright Ihtiandiko Wicaksono - 119140118</Text>
         </View>
     );
 }
