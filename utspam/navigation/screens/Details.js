@@ -26,6 +26,8 @@ export default function DetailsScreen({ navigation }) {
                 />
 
                 <Text style={styles.harga}>Dewasa x1                                         Rp 65.000,00</Text>
+
+                <Text>Copyright Ihtiandiko Wicaksono - 119140118</Text>
             </View>
         </View>
     );
